@@ -1,0 +1,10 @@
+C:\Users\kevin.avila\source\repos\PrimerosPasosNet\PrimerosPasosNet\bin\Debug\PrimerosPasosNet.exe.config
+C:\Users\kevin.avila\source\repos\PrimerosPasosNet\PrimerosPasosNet\bin\Debug\PrimerosPasosNet.exe
+C:\Users\kevin.avila\source\repos\PrimerosPasosNet\PrimerosPasosNet\bin\Debug\PrimerosPasosNet.pdb
+C:\Users\kevin.avila\source\repos\PrimerosPasosNet\PrimerosPasosNet\obj\Debug\PrimerosPasosNet.csproj.AssemblyReference.cache
+C:\Users\kevin.avila\source\repos\PrimerosPasosNet\PrimerosPasosNet\obj\Debug\PrimerosPasosNet.csproj.CoreCompileInputs.cache
+C:\Users\kevin.avila\source\repos\PrimerosPasosNet\PrimerosPasosNet\obj\Debug\PrimerosPasosNet.exe
+C:\Users\kevin.avila\source\repos\PrimerosPasosNet\PrimerosPasosNet\obj\Debug\PrimerosPasosNet.pdb
+C:\Users\kevin.avila\source\repos\PrimerosPasosNet\PrimerosPasosNet\bin\Debug\System.ValueTuple.dll
+C:\Users\kevin.avila\source\repos\PrimerosPasosNet\PrimerosPasosNet\bin\Debug\System.ValueTuple.xml
+C:\Users\kevin.avila\source\repos\PrimerosPasosNet\PrimerosPasosNet\obj\Debug\PrimerosPasosNet.csproj.CopyComplete
